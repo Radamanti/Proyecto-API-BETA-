@@ -31,6 +31,4 @@ Por otro lado, queda resaltar, que cada inicio de sesión está controlado por u
 
 Por otro lado, la API tiene dos funcionalidades más, en donde se guardan y se leen archivos, respectivamente en el archivo views.py, se tendrán dos funciones de Loadfile y SaveFile, los cuales, este primero, nos ayuda a acoger un archivo y poderlo leer en un archivo CSV, donde obtendrá cada información de este para subir datos de clientes a la tabla, en el repositorio, estará un archivo llamado "archivo.csv", el cual fue usado con éxito para estas pruebas y la segunda función, nos ayudará a generar un archivo del nombre de la persona que se desea, con el documento respectivo y la cantidad de facturas que este tiene asociadas.
 
-De igual manera, se generó un backend sencillo con C# de adicional, en donde se brinda una perspectiva mejor de lo que sería el futuro de la API con ideas basadas en ideas similares gracias a la comunicación entre lenguajes.
-
 Desde ya, muchas gracias por leer toda la documentación y espero poder ser seleccionado para mejorar y brindar buenos resultados.
